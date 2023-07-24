@@ -1,0 +1,510 @@
+.tutorialPage7Child,
+.tutorialPage7Item {
+  position: absolute;
+  top: -0.61px;
+  left: 67.99px;
+  border-right: 1.2px solid var(--color-ghostwhite-100);
+  box-sizing: border-box;
+  width: 1.22px;
+  height: 552.47px;
+}
+.tutorialPage7Item {
+  top: 457.23px;
+  left: 453.56px;
+  border-right: 0.6px dashed var(--color-mediumslateblue-300);
+  width: 0.61px;
+  height: 37.98px;
+}
+.myWallet,
+.tutorialPage7Inner {
+  position: absolute;
+  top: -616.88px;
+  left: 143.32px;
+  width: 20.52px;
+  height: 5.29px;
+}
+.myWallet {
+  top: 90px;
+  left: 104px;
+  font-size: var(--font-size-5xl);
+  font-weight: 800;
+  display: inline-block;
+  width: 187px;
+  height: 29px;
+}
+.jessicaGoh,
+.jessicaGohWrapper {
+  position: absolute;
+  width: 114px;
+  height: 25px;
+}
+.jessicaGoh {
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+}
+.jessicaGohWrapper {
+  top: 19px;
+  left: 68px;
+}
+.groupParent,
+.image27Icon {
+  position: absolute;
+  height: 63px;
+}
+.image27Icon {
+  top: 0;
+  left: 0;
+  width: 65px;
+  object-fit: cover;
+}
+.groupParent {
+  top: 16px;
+  left: 1032px;
+  width: 182px;
+  text-align: center;
+  color: var(--color-black);
+  font-family: var(--font-mulish);
+}
+.groupChild {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #5b99e1, #80a5dc 50%, #b9c9db);
+  width: 1012px;
+  height: 460px;
+}
+.image51Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 221px;
+  height: 80px;
+  object-fit: cover;
+}
+.balanceAmount,
+.monthlyProfit {
+  position: absolute;
+  top: 77px;
+  left: 22.91px;
+  font-weight: 600;
+  display: inline-block;
+  width: 306.81px;
+  height: 20.28px;
+}
+.monthlyProfit {
+  top: 80px;
+  left: 341px;
+  width: 448.76px;
+  height: 24.34px;
+}
+.eth00000S000Container,
+.eth00000S000Container1 {
+  position: absolute;
+  top: 106px;
+  left: 22.91px;
+  font-weight: 800;
+  font-family: var(--font-mulish);
+  display: inline-block;
+  width: 171.79px;
+  height: 66px;
+}
+.eth00000S000Container1 {
+  top: 108px;
+  left: 341px;
+  width: 260.84px;
+  height: 37.27px;
+}
+.eth00000S000Container2,
+.investedAmount {
+  position: absolute;
+  top: 77px;
+  left: 678px;
+  font-weight: 600;
+  display: inline-block;
+  width: 448.76px;
+  height: 24.34px;
+}
+.eth00000S000Container2 {
+  top: 105px;
+  font-weight: 800;
+  font-family: var(--font-mulish);
+  width: 260.84px;
+  height: 37.27px;
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-midnightblue);
+  width: 247.21px;
+  height: 43px;
+}
+.connectMyWallet {
+  position: absolute;
+  top: 10px;
+  left: 24px;
+  display: inline-block;
+  width: 227px;
+  height: 23.79px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 24px;
+  left: 751px;
+  width: 251px;
+  height: 43px;
+  cursor: pointer;
+  text-align: left;
+  color: var(--color-white);
+  font-family: var(--mobile-text-large-regular);
+}
+.image19Icon,
+.rectangleParent {
+  position: absolute;
+  top: 125px;
+  left: 104px;
+  width: 1126.76px;
+  height: 466px;
+}
+.image19Icon {
+  top: 28px;
+  left: 9px;
+  width: 297px;
+  height: 63px;
+  object-fit: cover;
+  mix-blend-mode: hard-light;
+}
+.groupInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke-200);
+  width: 601px;
+  height: 54px;
+}
+.micNoneIcon,
+.searchIcon {
+  position: absolute;
+  top: 12.94px;
+  left: 9px;
+  width: 48px;
+  height: 38.12px;
+  overflow: hidden;
+}
+.micNoneIcon {
+  left: 553px;
+}
+.searchAssetsAnd {
+  position: absolute;
+  top: 21.68px;
+  left: 61px;
+  line-height: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 422px;
+  height: 20.65px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 20px;
+  left: 310px;
+  width: 601px;
+  height: 54px;
+}
+.image19Parent,
+.invisible {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1176px;
+  height: 94px;
+}
+.image19Parent {
+  top: -4px;
+  left: 81px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-darkgray);
+  font-family: var(--mobile-text-large-regular);
+}
+.myPortfolio {
+  position: absolute;
+  top: 304px;
+  left: 130.22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 356.06px;
+  height: 32px;
+}
+.rectangleDiv,
+.thereAreNone {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rectangleDiv {
+  border-radius: var(--br-8xs-9);
+  background-color: var(--color-gray-300);
+  box-shadow: 0-11.63749885559082px 37.36px rgba(0, 0, 0, 0.03);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 221.54px;
+  height: 59.53px;
+}
+.thereAreNone {
+  display: inline-block;
+  width: 204px;
+  height: 42px;
+}
+.groupDiv,
+.thereAreNoneHereStartInvWrapper {
+  position: absolute;
+  top: 6.16px;
+  left: 9.55px;
+  width: 204px;
+  height: 42px;
+}
+.groupDiv {
+  top: 336.47px;
+  left: 128.45px;
+  width: 221.54px;
+  height: 59.53px;
+  font-size: var(--desktop-text-x-small-regular-size);
+}
+.groupChild1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs-9);
+  background-color: var(--color-gray-300);
+  box-shadow: 0-11.63749885559082px 37.36px rgba(0, 0, 0, 0.03);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 932px;
+  height: 169.14px;
+}
+.div,
+.totalDistributions {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.totalDistributions {
+  top: 14.52px;
+  left: 27.7px;
+  font-family: var(--font-raleway);
+  color: var(--color-gray-100);
+  text-align: justify;
+  width: 212.53px;
+  height: 15.41px;
+}
+.div {
+  top: 50.45px;
+}
+.div,
+.div1,
+.div2 {
+  left: 27.31px;
+  text-align: right;
+  width: 51.41px;
+  height: 13px;
+}
+.div1 {
+  position: absolute;
+  top: 78.45px;
+  font-weight: 600;
+  display: inline-block;
+}
+.div2 {
+  top: 106.45px;
+}
+.div2,
+.div3,
+.fri,
+.mon,
+.sat,
+.sun,
+.thu,
+.tue,
+.wed {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.div3 {
+  top: 133.57px;
+  left: 51.24px;
+  text-align: right;
+  width: 12.46px;
+  height: 13.07px;
+}
+.fri,
+.mon,
+.sat,
+.sun,
+.thu,
+.tue,
+.wed {
+  top: 133.45px;
+  left: 117.28px;
+  width: 62.65px;
+  height: 13px;
+}
+.fri,
+.sat,
+.sun,
+.thu,
+.tue,
+.wed {
+  left: 236.16px;
+  width: 41.77px;
+}
+.fri,
+.sat,
+.sun,
+.thu,
+.wed {
+  left: 347.01px;
+  width: 57.84px;
+}
+.fri,
+.sat,
+.sun,
+.thu {
+  left: 465.89px;
+  width: 46.59px;
+}
+.fri,
+.sat,
+.sun {
+  left: 579.96px;
+  width: 38.56px;
+}
+.sat,
+.sun {
+  left: 681.17px;
+  width: 41.77px;
+}
+.sun {
+  left: 790.41px;
+  width: 57.84px;
+}
+.rectangleParent1 {
+  position: absolute;
+  top: 403.55px;
+  left: 126px;
+  width: 932px;
+  height: 169.14px;
+  text-align: center;
+  font-size: var(--desktop-text-x-small-regular-size);
+  color: var(--color-black);
+  font-family: var(--font-mulish);
+}
+.groupChild2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-blueviolet-100);
+  width: 269px;
+  height: 47px;
+}
+.addWalletProvider {
+  position: absolute;
+  top: 15px;
+  left: 37px;
+  display: inline-block;
+  width: 247px;
+  height: 26px;
+}
+.rectangleParent2 {
+  position: absolute;
+  top: 615px;
+  left: 112px;
+  width: 284px;
+  height: 47px;
+  text-align: left;
+  color: var(--color-white);
+  font-family: var(--mobile-text-large-regular);
+}
+.changeWalletProvider {
+  position: absolute;
+  top: 15px;
+  left: 17px;
+  display: inline-block;
+  width: 247px;
+  height: 26px;
+}
+.rectangleParent3 {
+  position: absolute;
+  top: 615px;
+  left: 431px;
+  width: 269px;
+  height: 47px;
+  text-align: left;
+  color: var(--color-white);
+  font-family: var(--mobile-text-large-regular);
+}
+.arrowIcon,
+.groupChild4 {
+  position: absolute;
+  top: 175px;
+  left: 1072px;
+  width: 70.49px;
+  height: 57.13px;
+}
+.groupChild4 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-300);
+  width: 753px;
+  height: 161px;
+}
+.nowYouCan {
+  margin: 0;
+}
+.nowYouCanContainer {
+  position: absolute;
+  top: 14.3px;
+  left: 28px;
+  display: inline-block;
+  width: 673px;
+  height: 112.1px;
+}
+.rectangleParent4 {
+  position: absolute;
+  top: 229px;
+  left: 259px;
+  width: 753px;
+  height: 161px;
+  text-align: left;
+  color: var(--color-black);
+  font-family: var(--mobile-text-large-regular);
+}
+.sideBarIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 73px;
+  height: 1229px;
+}
+.tutorialPage7 {
+  position: relative;
+  background: radial-gradient(50% 50%at 50% 50%, #f1efef, #c4c2c9 60.94%, #fff);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 100%;
+  height: 747px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--mobile-text-large-regular-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-raleway);
+}

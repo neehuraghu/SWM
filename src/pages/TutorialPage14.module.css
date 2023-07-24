@@ -1,0 +1,250 @@
+.tutorialPage14Child,
+.tutorialPage14Item {
+  position: absolute;
+  top: -0.61px;
+  left: 67.99px;
+  border-right: 1.2px solid var(--color-ghostwhite-100);
+  box-sizing: border-box;
+  width: 1.22px;
+  height: 552.47px;
+}
+.tutorialPage14Item {
+  top: 457.23px;
+  left: 453.56px;
+  border-right: 0.6px dashed var(--color-mediumslateblue-300);
+  width: 0.61px;
+  height: 37.98px;
+}
+.tutorialPage14Inner {
+  position: absolute;
+  top: -616.88px;
+  left: 143.32px;
+  width: 20.52px;
+  height: 5.29px;
+}
+.changeWalletProvider {
+  position: absolute;
+  top: 90px;
+  left: 104px;
+  font-weight: 800;
+  font-family: var(--font-raleway);
+  color: var(--color-gray-100);
+  text-align: justify;
+  display: inline-block;
+  width: 287px;
+  height: 29px;
+}
+.jessicaGoh,
+.jessicaGohWrapper {
+  position: absolute;
+  width: 114px;
+  height: 25px;
+}
+.jessicaGoh {
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+}
+.jessicaGohWrapper {
+  top: 19px;
+  left: 68px;
+}
+.image27Icon {
+  top: 0;
+  left: 0;
+  width: 65px;
+  object-fit: cover;
+}
+.groupParent,
+.image19Icon,
+.image27Icon {
+  position: absolute;
+  height: 63px;
+}
+.groupParent {
+  top: 16px;
+  left: 1032px;
+  width: 182px;
+  text-align: center;
+  font-size: var(--mobile-text-large-regular-size);
+  font-family: var(--font-mulish);
+}
+.image19Icon {
+  top: 28px;
+  left: 9px;
+  width: 297px;
+  object-fit: cover;
+  mix-blend-mode: hard-light;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke-200);
+  width: 601px;
+  height: 54px;
+}
+.micNoneIcon,
+.searchIcon {
+  position: absolute;
+  top: 12.94px;
+  left: 9px;
+  width: 48px;
+  height: 38.12px;
+  overflow: hidden;
+}
+.micNoneIcon {
+  left: 553px;
+}
+.searchAssetsAnd {
+  position: absolute;
+  top: 21.68px;
+  left: 61px;
+  line-height: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 422px;
+  height: 20.65px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 20px;
+  left: 310px;
+  width: 601px;
+  height: 54px;
+}
+.image19Parent,
+.invisible {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1176px;
+  height: 94px;
+}
+.image19Parent {
+  top: -4px;
+  left: 81px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-darkgray);
+}
+.arrowIcon,
+.image29Icon {
+  position: absolute;
+  top: 367px;
+  left: 147px;
+  width: 70.49px;
+  height: 57.13px;
+}
+.image29Icon {
+  top: 148px;
+  left: 161px;
+  width: 330.05px;
+  height: 79px;
+  object-fit: cover;
+}
+.ellipseIcon,
+.inUse {
+  position: absolute;
+  top: 169px;
+}
+.inUse {
+  left: 513px;
+  display: inline-block;
+  width: 107px;
+  height: 48px;
+}
+.ellipseIcon {
+  left: 119px;
+  width: 35px;
+  height: 33px;
+}
+.tutorialPage14Child1,
+.tutorialPage14Child2,
+.tutorialPage14Child3 {
+  position: absolute;
+  top: 255px;
+  left: 119px;
+  width: 35px;
+  height: 33px;
+}
+.tutorialPage14Child2,
+.tutorialPage14Child3 {
+  top: 346px;
+}
+.tutorialPage14Child3 {
+  top: 432px;
+}
+.image50Icon,
+.image51Icon,
+.image52Icon {
+  position: absolute;
+  top: 219px;
+  left: 181px;
+  width: 310px;
+  height: 96px;
+  object-fit: cover;
+}
+.image51Icon,
+.image52Icon {
+  top: 323px;
+  left: 167px;
+  width: 221px;
+  height: 80px;
+}
+.image52Icon {
+  top: 403px;
+  left: 184px;
+  width: 284px;
+  height: 84px;
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-300);
+  width: 753px;
+  height: 171px;
+}
+.hereIsA {
+  margin: 0;
+}
+.hereIsAContainer {
+  position: absolute;
+  top: 69px;
+  left: 36px;
+  display: inline-block;
+  width: 673px;
+  height: 119.06px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 489px;
+  left: 260px;
+  width: 753px;
+  height: 188.06px;
+  font-size: var(--mobile-text-large-regular-size);
+}
+.sideBarIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 81px;
+  height: 1229px;
+}
+.tutorialPage14 {
+  position: relative;
+  background: radial-gradient(50% 50%at 50% 50%, #f1efef, #c4c2c9 60.94%, #fff);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 100%;
+  height: 747px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--mobile-text-large-regular);
+}
