@@ -8,6 +8,7 @@ const TutorialPage1 = () => {
   const navigate = useNavigate();
 
   const onRectangle12Click = useCallback(() => {
+    console.log("onRectangle12Click");
     navigate("/tutorial-page-2");
   }, [navigate]);
 
@@ -199,9 +200,9 @@ const TutorialPage1 = () => {
           </div>
           <div className={styles.div9}>$0.00</div>
         </div>
-        <div className={styles.image19Parent}>
-          <img className={styles.image19Icon} alt="" src="/image-19@2x.png" />
-          <div className={styles.rectangleParent7}>
+        <div className={styles.image19Parent} onClick={onRectangle12Click}> 
+          <img className={styles.image19Icon} alt="" src="/image-19@2x.png" onClick={onRectangle12Click}/>
+          <div className={styles.rectangleParent7} onClick={onRectangle12Click}>
             <div className={styles.groupChild25} onClick={onRectangle12Click} />
             <img className={styles.searchIcon} alt="" src="/search2.svg" />
             <img className={styles.micNoneIcon} alt="" src="/mic-none2.svg" />

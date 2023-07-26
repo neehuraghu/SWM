@@ -199,8 +199,8 @@ const TutorialPage2 = () => {
           </div>
           <div className={styles.div9}>$0.00</div>
         </div>
-        <div className={styles.image19Parent}>
-          <img className={styles.image19Icon} alt="" src="/image-191@2x.png" />
+        <div className={styles.image19Parent} onClick={onSearchTextClick}>
+          <img className={styles.image19Icon} alt="" src="/image-191@2x.png" onClick={onSearchTextClick}/>
           <div className={styles.rectangleParent7}>
             <div className={styles.groupChild25} />
             <img className={styles.searchIcon} alt="" src="/search2.svg" />
