@@ -1,0 +1,68 @@
+.inbox,
+.vectorIcon {
+  position: absolute;
+  left: 4.44%;
+}
+.vectorIcon {
+  height: 44.44%;
+  width: 18.69%;
+  top: 33.33%;
+  right: 76.87%;
+  bottom: 22.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.inbox {
+  height: 22.22%;
+  width: 39.25%;
+  top: 6.25%;
+  line-height: 28px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.dearJessicaGoh {
+  margin: 0;
+}
+.dearJessicaGohContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.dearJessicaGohContainer {
+  position: absolute;
+  height: 72.22%;
+  width: 71.5%;
+  top: 13.89%;
+  left: 30.84%;
+  font-size: var(--desktop-text-small-medium-size);
+  line-height: 28px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.closeWindowIcon {
+  position: absolute;
+  height: 42.36%;
+  width: 10.05%;
+  top: 0;
+  right: 1.87%;
+  bottom: 57.64%;
+  left: 88.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.codeEmailNotification {
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 428px;
+  height: 144px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--desktop-text-small-medium);
+}

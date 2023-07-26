@@ -1,0 +1,48 @@
+.image16Icon,
+.image18Icon {
+  position: absolute;
+  top: 21px;
+  left: 22px;
+  width: 263px;
+  height: 128px;
+  object-fit: cover;
+}
+.image18Icon {
+  top: 114px;
+  left: 153px;
+  width: 362px;
+  height: 188px;
+}
+.next {
+  position: absolute;
+  top: 3px;
+  left: 42px;
+  line-height: 28px;
+}
+.image26Icon,
+.nextParent {
+  position: absolute;
+  height: 33px;
+}
+.image26Icon {
+  top: 0;
+  left: 0;
+  width: 33px;
+  object-fit: cover;
+}
+.nextParent {
+  top: 302px;
+  left: 62px;
+  width: 91px;
+}
+.officialLogo {
+  position: relative;
+  background-color: var(--color-white);
+  width: 504px;
+  height: 363px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--mobile-text-large-regular-size);
+  color: var(--grayscale-body);
+  font-family: var(--desktop-text-small-medium);
+}

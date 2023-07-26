@@ -1,0 +1,28 @@
+.focusOnOne {
+  margin-bottom: 0;
+}
+.focusOnOneFeatureFocusOn {
+  margin: 0;
+  padding-left: 40px;
+}
+.focusOnOneContainer {
+  position: absolute;
+  top: 55px;
+  left: 58px;
+  display: inline-block;
+  width: 932px;
+  height: 566px;
+}
+.thingsToChange {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1224px;
+  height: 851px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-inherit);
+  color: var(--color-black);
+  font-family: var(--font-inherit);
+}

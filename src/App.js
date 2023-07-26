@@ -39,6 +39,15 @@ import WalletProvider2 from "./pages/WalletProvider2";
 import WalletChangesKaikas1 from "./pages/WalletChangesKaikas1";
 import KaikasConnectWallet1 from "./pages/KaikasConnectWallet1";
 import InvestPage from "./pages/InvestPage";
+import SignUp from "./pages/SignUp";
+import SignUp1 from "./pages/SignUp1";
+import SignUp2 from "./pages/SignUp2";
+import SignUp3 from "./pages/SignUp3";
+import SignUp4 from "./pages/SignUp4";
+import SignUp5 from "./pages/SignUp5";
+import SignUp6 from "./pages/SignUp6";
+import SignUp7 from "./pages/SignUp7";
+import SignUp8 from "./pages/SignUp8";
 import { useEffect } from "react";
 
 function App() {
@@ -133,6 +142,7 @@ function App() {
         title = "";
         metaDescription = "";
         break;
+        
       case "/tutorial-page1":
         title = "";
         metaDescription = "";
@@ -247,6 +257,15 @@ function App() {
       <Route path="/wallet-page1" element={<WalletPage1 />} />
       <Route path="/wallet-provider1" element={<WalletProvider1 />} />
       <Route path="/wallet-provider-2" element={<WalletProvider2 />} />
+      <Route path ="/sign-up" element={<SignUp />} />
+      <Route path ="/sign-up-1" element={<SignUp1 />} />
+      <Route path ="/sign-up-2" element={<SignUp2 />} />
+      <Route path ="/sign-up-3" element={<SignUp3 />} />
+      <Route path ="/sign-up-4" element={<SignUp4 />} />
+      <Route path ="/sign-up-5" element={<SignUp5 />} />
+      <Route path ="/sign-up-6" element={<SignUp6 />} />
+      <Route path ="/sign-up-7" element={<SignUp7 />} />
+      <Route path ="/sign-up-8" element={<SignUp8 />} />
       <Route
         path="/wallet-changes-kaikas1"
         element={<WalletChangesKaikas1 />}

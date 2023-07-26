@@ -1,0 +1,225 @@
+.verifyYourAccount {
+  position: absolute;
+  top: 36px;
+  left: 100px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-raleway);
+  color: var(--color-dimgray-100);
+  text-align: justify;
+}
+.image17Icon {
+  position: absolute;
+  top: 17px;
+  left: 26px;
+  width: 61px;
+  height: 57px;
+  object-fit: cover;
+}
+.frameIcon {
+  position: absolute;
+  top: 20px;
+  left: 1186px;
+  width: 41px;
+  height: 38px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.enterYourCode,
+.pleaseKeyIn {
+  position: absolute;
+  top: 201px;
+  left: 285px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  width: 684px;
+}
+.enterYourCode {
+  top: 0;
+  left: 0;
+  width: 208.21px;
+}
+.textInputChild {
+  position: absolute;
+  height: 70.09%;
+  width: 100%;
+  top: 0.14%;
+  right: 0;
+  bottom: 29.77%;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--grayscale-input-bg);
+}
+.closeIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.icon {
+  position: absolute;
+  height: 70.09%;
+  width: 16.47%;
+  top: 0.92%;
+  right: 0;
+  bottom: 29%;
+  left: 83.53%;
+  display: none;
+  flex-direction: row;
+  padding: var(--padding-base);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.tagIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  display: none;
+}
+.enterYourName,
+.firstName {
+  position: relative;
+  font-weight: 500;
+}
+.enterYourName {
+  letter-spacing: 0.75px;
+  line-height: 20px;
+  display: none;
+}
+.firstName {
+  font-size: var(--desktop-text-small-medium-size);
+  letter-spacing: 0.01em;
+  line-height: 24px;
+  color: var(--grayscale-label);
+}
+.content,
+.text {
+  display: flex;
+  justify-content: center;
+}
+.text {
+  flex-direction: column;
+  padding: 0 var(--padding-base) 0 0;
+  align-items: flex-start;
+  gap: var(--gap-9xs);
+}
+.content {
+  position: absolute;
+  top: calc(50% - 23.53px);
+  left: 24px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-xs);
+}
+.heresAHint {
+  position: absolute;
+  height: 27.53%;
+  width: 91.64%;
+  top: 72.47%;
+  left: 7.48%;
+  font-size: var(--mobile-text-small-regular-size);
+  line-height: 20px;
+  font-weight: 500;
+  display: none;
+}
+.email,
+.textInput {
+  position: absolute;
+  width: 448.05px;
+}
+.textInput {
+  top: 44px;
+  left: 0;
+  border-radius: var(--br-5xs);
+  height: 79.9px;
+  font-size: var(--desktop-text-x-small-regular-size);
+  color: var(--grayscale-placehoder);
+}
+.email {
+  top: 313px;
+  left: 406px;
+  height: 123.9px;
+}
+.back,
+.jessicagohnftforlifecom {
+  position: absolute;
+  line-height: 28px;
+}
+.jessicagohnftforlifecom {
+  top: 241px;
+  left: 489px;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+}
+.back {
+  top: 3px;
+  left: 42px;
+}
+.backParent,
+.image26Icon {
+  position: absolute;
+  height: 33px;
+}
+.image26Icon {
+  top: 0;
+  left: 0;
+  width: 33px;
+  object-fit: cover;
+}
+.backParent {
+  top: 84px;
+  left: 41px;
+  width: 92px;
+  cursor: pointer;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-thistle);
+  width: 119px;
+  height: 48px;
+}
+.verify {
+  position: absolute;
+  top: 2px;
+  left: 15px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 89px;
+  height: 46px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 481px;
+  left: 567px;
+  width: 119px;
+  height: 48px;
+  text-align: center;
+  color: var(--color-black);
+}
+.image54Icon {
+  position: absolute;
+  top: 277px;
+  left: 514px;
+  width: 225px;
+  height: 225px;
+  object-fit: cover;
+}
+.signUp8 {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1253px;
+  height: 780px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--mobile-text-large-regular-size);
+  color: var(--grayscale-body);
+  font-family: var(--desktop-text-small-medium);
+}

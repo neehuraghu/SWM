@@ -1,0 +1,122 @@
+.signUp {
+  position: absolute;
+  top: 36px;
+  left: 100px;
+  color: var(--color-dimgray-100);
+  text-align: justify;
+}
+.image17Icon {
+  position: absolute;
+  top: 17px;
+  left: 26px;
+  width: 61px;
+  height: 57px;
+  object-fit: cover;
+}
+.youHaveSuccessfully {
+  margin: 0;
+}
+.youHaveSuccessfullyContainer {
+  position: absolute;
+  top: 315px;
+  left: 423px;
+  font-size: var(--desktop-text-small-medium-size);
+  letter-spacing: 0.01em;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: var(--desktop-text-small-medium);
+  display: inline-block;
+  width: 407px;
+  height: 127px;
+}
+.loginButtonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-blueviolet-300);
+  width: 95px;
+  height: 40px;
+}
+.tutorial {
+  position: absolute;
+  top: 8.48px;
+  left: 2.9px;
+  font-weight: 600;
+  display: inline-block;
+  width: 88.74px;
+  height: 31.52px;
+}
+.loginButton {
+  position: absolute;
+  top: 442px;
+  left: 496px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 95px;
+  height: 40px;
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.loginButtonItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-blueviolet-300);
+  width: 120px;
+  height: 40px;
+}
+.mainPage {
+  position: absolute;
+  top: 8.48px;
+  left: 3.67px;
+  font-weight: 600;
+  display: inline-block;
+  width: 112.09px;
+  height: 31.52px;
+}
+.loginButton1 {
+  position: absolute;
+  top: 442px;
+  left: 650px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 120px;
+  height: 40px;
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.jessicaGoh {
+  position: absolute;
+  top: 266px;
+  left: 533px;
+  letter-spacing: 0.01em;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: var(--desktop-text-small-medium);
+  display: inline-block;
+  width: 188px;
+  height: 49px;
+}
+.image27Icon {
+  position: absolute;
+  top: 117px;
+  left: 544px;
+  width: 166px;
+  height: 149px;
+  object-fit: cover;
+}
+.signUp4 {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1253px;
+  height: 780px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--grayscale-label);
+  font-family: var(--font-raleway);
+}

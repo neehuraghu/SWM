@@ -1,0 +1,26 @@
+.image55Icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component1 {
+  position: absolute;
+  top: 22px;
+  left: 15px;
+  width: 80px;
+  height: 80px;
+}
+.component1Parent {
+  position: relative;
+  width: 113px;
+  height: 123px;
+  overflow: hidden;
+}
